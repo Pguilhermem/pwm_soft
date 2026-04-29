@@ -2,7 +2,7 @@
 //
 // ARQUIVO:    pwm_soft.c
 //
-// TÍTULO:    Geração de PWM por Software e Configuração Simulada (versão simplificada)
+// TÍTULO:    Geração de PWM por Software e Configuração Simulada
 //
 //! Este exemplo gera um PWM por software e simula sua configuração via registrador.
 //! O registrador contém apenas o valor de comparação (duty‑cycle) e um bit de enable.
